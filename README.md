@@ -34,6 +34,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
+| [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
