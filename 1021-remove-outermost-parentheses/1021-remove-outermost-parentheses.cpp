@@ -1,19 +1,17 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        stack<char> st;
-        string result = "";
-        for (char c : s) {
-            if (c == '(') {
-                if (!st.empty())
-                    result += c; // not outermost
-                st.push(c);
-            } else {
-                st.pop();
-                if (!st.empty())
-                    result += c; // not outermost means ) this is part of innermost content
-            }
+        int cnt = 0;
+        string ans = "";
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] == ')')
+                cnt--;
+            if (cnt != 0)
+                ans.push_back(s[i]);
+            if (s[i] == '(')
+                cnt++;
         }
-        return result;
+
+        return ans;
     }
 };
