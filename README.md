@@ -64,6 +64,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -73,4 +74,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
