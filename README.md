@@ -15,6 +15,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -76,9 +77,14 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
