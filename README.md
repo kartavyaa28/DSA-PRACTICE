@@ -18,6 +18,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
