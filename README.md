@@ -7,6 +7,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
@@ -70,6 +71,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
@@ -91,4 +93,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
