@@ -18,6 +18,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -85,6 +86,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -103,8 +105,13 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
