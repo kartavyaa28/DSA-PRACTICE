@@ -42,10 +42,12 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -77,6 +79,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
