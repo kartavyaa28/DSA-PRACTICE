@@ -13,6 +13,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
@@ -134,4 +135,5 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
