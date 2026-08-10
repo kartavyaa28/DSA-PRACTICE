@@ -43,6 +43,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -83,6 +84,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
@@ -136,4 +138,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
