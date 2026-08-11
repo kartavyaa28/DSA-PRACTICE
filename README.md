@@ -54,6 +54,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
@@ -105,6 +107,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -145,4 +148,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
