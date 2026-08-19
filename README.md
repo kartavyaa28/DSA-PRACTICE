@@ -84,6 +84,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1021-remove-outermost-parentheses) |
@@ -100,6 +101,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -113,6 +115,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -124,6 +127,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -134,6 +138,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String Matching
 |  |
@@ -168,4 +173,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
