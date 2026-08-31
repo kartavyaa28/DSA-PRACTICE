@@ -161,18 +161,22 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
