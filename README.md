@@ -25,6 +25,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
