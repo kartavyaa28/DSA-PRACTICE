@@ -162,11 +162,13 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,8 +179,13 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
