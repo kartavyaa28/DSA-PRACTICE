@@ -14,15 +14,11 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while(fast->next != nullptr && fast->next->next != nullptr)
+        while (fast != nullptr && fast->next != nullptr) // it will directly go to second middle
         {
             slow = slow->next;
             fast = fast->next->next;
         }
-        
-        //handling condition of returning second middle in even len list
-        if( fast->next != nullptr)
-            slow = slow->next;
 
         return slow; 
     }
