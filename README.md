@@ -190,4 +190,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
