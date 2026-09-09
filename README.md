@@ -114,6 +114,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,4 +195,5 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
