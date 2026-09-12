@@ -9,17 +9,29 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_set<ListNode*>st;
-        while(head != nullptr)// we directly traverse head since we dont need preserve after solving problem
-        {
-            if(st.find(head) != st.end())return head;
-            st.insert(head);
-            head = head->next;
-        }
-        
+        ListNode* slow = head;
+        ListNode* fast = head;
 
+        //detect cycle
+        while(fast != nullptr && fast->next != nullptr)
+        {
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast)break;
+        }
+
+        // no cycle
+        if(fast == nullptr || fast->next == nullptr) // empty or one node
         return nullptr;
 
-        
+        slow = head;// we can also use fast here
+        while(slow != fast)
+        {
+            slow = slow->next;
+            fast = fast->next;
+        }
+
+        return slow;
+
     }
 };
