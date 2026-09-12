@@ -9,13 +9,12 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*,int>mp; // we can use hashset here for more mem eff because we only care about existence not mapping
-        ListNode* temp = head;
-        while(temp != nullptr)
+        unordered_set<ListNode*>st;
+        while(head != nullptr)// we directly traverse head since we dont need preserve after solving problem
         {
-            if(mp.find(temp) != mp.end())return temp;
-            mp[temp] = 1;
-            temp = temp->next;
+            if(st.find(head) != st.end())return head;
+            st.insert(head);
+            head = head->next;
         }
         
 
