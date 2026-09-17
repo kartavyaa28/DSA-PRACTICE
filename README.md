@@ -175,12 +175,14 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Breadth-First Search
@@ -188,12 +190,14 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
 ## Bucket Sort
@@ -208,6 +212,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
