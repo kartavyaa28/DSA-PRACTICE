@@ -71,6 +71,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -103,6 +104,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
@@ -116,6 +118,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
@@ -207,6 +210,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0237-delete-node-in-a-linked-list) |
@@ -222,4 +226,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
