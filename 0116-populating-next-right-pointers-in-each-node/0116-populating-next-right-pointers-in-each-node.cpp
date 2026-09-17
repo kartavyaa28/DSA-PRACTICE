@@ -20,28 +20,22 @@ class Solution {
 public:
     Node* connect(Node* root) {
         if(root == nullptr)return nullptr;
-        queue<Node*> q;
-        q.push(root);
-
-        while(!q.empty())
+        Node* LeftMost = root; //it will be used to change level
+        while(LeftMost->left != nullptr)
         {
-            int size = q.size();
-            Node* prev = nullptr;
-
-            for(int i = 0; i < size; i++)
+            Node* curr = LeftMost;
+            while(curr != nullptr)
             {
-                Node* curr = q.front();
-                q.pop();
-
-                if(prev != nullptr)prev->next = curr;
-                prev = curr;
-
-                if(curr->left != nullptr)q.push(curr->left);
-                if(curr->right != nullptr)q.push(curr->right);
+                curr->left->next = curr->right; //connecting childs of root
+                if(curr->next != nullptr)
+                {
+                    curr->right->next = curr->next->left; //connecting 5->6 in ex
+                }
+                curr = curr->next;
             }
-        }
 
+            LeftMost = LeftMost->left;
+        }
         return root;
-          
-    }
+    }   
 };
