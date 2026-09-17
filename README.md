@@ -178,6 +178,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0669-trim-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0226-invert-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0669-trim-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0669-trim-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
