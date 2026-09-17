@@ -113,6 +113,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
@@ -203,6 +204,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
