@@ -11,27 +11,24 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
+
         if(head->next == nullptr)
         {
-            ListNode* temp = head;
             head = nullptr;
             return head;
         }
-
-        ListNode* prev = nullptr;
         ListNode* slow = head;
-        ListNode* fast = head;
-        
+        ListNode* fast = head->next->next;
+
         while(fast != nullptr && fast->next != nullptr)
         {
-            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        prev->next = slow->next;
-        // we cant delete slow because it cause leetcode heap error
+        slow->next = slow->next->next;
         return head;
 
+        
     }
 };
