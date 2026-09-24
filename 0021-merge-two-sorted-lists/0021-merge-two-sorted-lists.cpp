@@ -10,31 +10,25 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        //ListNode*dummy = new ListNode{0,nullptr};//heap allocate have to delete this node later
-        ListNode dummy(0);//stack allocated , lifetime is only for this function
-        ListNode* dd = &dummy;
-
-        while(list1 != nullptr && list2 != nullptr)
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        //iterative 
+        if(l1 == nullptr)return l2;
+        if(l2 == nullptr)return l1;
+        if(l1->val > l2->val)swap(l1,l2);
+        ListNode* res = l1;
+        while(l1 != nullptr && l2 != nullptr)
         {
-            if(list1->val < list2->val)
+            ListNode* temp = nullptr;
+            while(l1 != nullptr && l1->val <= l2->val)
             {
-                dd->next = list1;
-                dd = dd->next;
-                list1 = list1->next;
+                temp = l1;
+                l1 = l1->next;
             }
-            else
-            {
-                dd->next = list2;
-                dd = dd->next;
-                list2 = list2->next;
-            }
+            temp->next = l2;
+            swap(l1,l2);
         }
 
-        // attaching remaining node
-        dd->next = (list1 ? list1 : list2);
+        return res;
 
-        return dummy.next; // it is a stack object so we have to use . instead of ->
-        
     }
 };
