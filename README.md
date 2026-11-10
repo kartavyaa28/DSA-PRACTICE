@@ -13,6 +13,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0457-circular-array-loop](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
@@ -130,6 +131,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
+| [0457-circular-array-loop](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -152,6 +154,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
+| [0457-circular-array-loop](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -257,6 +260,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0457-circular-array-loop](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0457-circular-array-loop) |
 ## Merge Sort
 |  |
 | ------- |
