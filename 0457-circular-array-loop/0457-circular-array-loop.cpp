@@ -3,36 +3,44 @@ public:
     bool circularArrayLoop(vector<int>& nums) {
         int n = nums.size();
         
+        auto getNext = [&](int curr, bool isForward) {
+            bool direction = nums[curr] > 0;
+            if (direction != isForward) return -1;
+            
+            int nextIndex = (curr + nums[curr] % n + n) % n;
+            if (nextIndex == curr) return -1;
+            
+            return nextIndex;
+        };
+
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) continue;
             
-            unordered_set<int> visited;
-            int current = i;
             bool isForward = nums[i] > 0;
-            
+            int slow = i;
+            int fast = i;
+
             while (true) {
-                if ((nums[current] > 0) != isForward) break;
+                slow = getNext(slow, isForward);
+                fast = getNext(fast, isForward);
                 
-                if (visited.count(current)) {
-                    int nextPos = (current + nums[current] % n + n) % n;
-                    if (current != nextPos) return true;
-                    break;
+                if (fast != -1) {
+                    fast = getNext(fast, isForward);
                 }
                 
-                visited.insert(current);
-                int nextPos = (current + nums[current] % n + n) % n;
-                if (current == nextPos) break;
-                current = nextPos;
+                if (slow == -1 || fast == -1) break;
+                
+                if (slow == fast) return true;
             }
-            
-            current = i;
-            while (nums[current] != 0 && (nums[current] > 0) == isForward) {
-                int nextPos = (current + nums[current] % n + n) % n;
-                nums[current] = 0;
-                current = nextPos;
+
+            int curr = i;
+            while (nums[curr] != 0 && (nums[curr] > 0) == isForward) {
+                int nextIndex = (curr + nums[curr] % n + n) % n;
+                nums[curr] = 0;
+                curr = nextIndex;
             }
         }
-        
+
         return false;
     }
 };
