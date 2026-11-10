@@ -113,6 +113,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
@@ -241,6 +242,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
+| [0147-insertion-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0234-palindrome-linked-list) |
