@@ -9,6 +9,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0004-median-of-two-sorted-arrays](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
+| [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -115,6 +116,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0147-insertion-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
@@ -227,6 +229,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search Tree
 |  |
@@ -296,4 +299,12 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
