@@ -17,6 +17,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0457-circular-array-loop](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0485-max-consecutive-ones) |
+| [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0645-set-mismatch) |
@@ -40,6 +41,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0475-heaters) |
+| [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +77,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +115,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
+| [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -305,6 +309,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 ## Radix Sort
 |  |
 | ------- |
