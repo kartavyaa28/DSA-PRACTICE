@@ -37,6 +37,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0004-median-of-two-sorted-arrays](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +111,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0002-add-two-numbers](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
