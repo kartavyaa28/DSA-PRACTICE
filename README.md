@@ -332,4 +332,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1927-sum-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
