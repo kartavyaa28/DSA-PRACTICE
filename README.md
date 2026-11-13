@@ -109,6 +109,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/2409-count-days-spent-together) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
 | [1903-largest-odd-number-in-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3536-maximum-product-of-two-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
