@@ -31,6 +31,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [1470-shuffle-the-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1929-concatenation-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -80,6 +81,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
+| [1732-find-the-highest-altitude](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/1732-find-the-highest-altitude) |
 ## Divide and Conquer
 |  |
 | ------- |
