@@ -148,6 +148,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0016-3sum-closest](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0148-sort-list) |
@@ -262,6 +263,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0002-add-two-numbers](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0142-linked-list-cycle-ii) |
