@@ -69,6 +69,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0002-add-two-numbers](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0400-nth-digit](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0400-nth-digit) |
 | [0528-random-pick-with-weight](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0528-random-pick-with-weight) |
@@ -338,4 +340,8 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0176-second-highest-salary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
