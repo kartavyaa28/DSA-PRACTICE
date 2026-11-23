@@ -11,6 +11,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | [0016-3sum-closest](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -70,6 +71,7 @@ Daily DSA practice solutions synced from LeetCode using LeetHub.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/kartavyaa28/DSA-PRACTICE/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
